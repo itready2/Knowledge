@@ -1,13 +1,6 @@
+
 # Knowledge
 Knowledge (web, article, example, other)
-
-+++++++++++++++++++++++++++++++++++++++++ web
-https://www.myarduino.net/
-
-*** รบกวนเช็ค Power Bank แหล่งจ่ายไฟสำหรับ Arduino ESp8266 ชาร์จไฟผ่าน USB ถ่าน 18650 1 ก้อน สีดำ >> กับ 
- >>> ถ่านชาร์จ lithium battery แบตเตอรี่ลิเธียม LG MG1 18650 3.7V 2900ma ที่ผมเลือกว่าสามารถใช้ร่วมกันได้หรือไม่ ???
-
-026647711 ต่อ 1196
 
 #################################################################### loT, Arduino
 https://www.youtube.com/watch?v=WuXirxQEneA ****** Hack Remote Arduino
@@ -75,3 +68,5 @@ https://www.europa.co.th/th
 http://www.dojogarden.com/
 https://www.jspstore.com/
 https://www.myarduino.net/
+
+
